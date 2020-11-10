@@ -1,0 +1,108 @@
+TBLID,GEOID,GEONAME,PROFTBL,PROFLN,TITLE,EST_19,EST_18,SIG90_19_18,EST_17,SIG90_19_17,EST_16,SIG90_19_16,EST_15,SIG90_19_15
+CP05,01000US,United States,1,0,COMPARATIVE DEMOGRAPHIC ESTIMATES,,,,,,,,,
+CP05,01000US,United States,1,0.5,COMPARATIVE DEMOGRAPHIC ESTIMATES,,,,,,,,,
+CP05,01000US,United States,1,0.8,SEX AND AGE,,,,,,,,,
+CP05,01000US,United States,1,1,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP05,01000US,United States,1,2,Male,49.2%,49.2%,*,49.2%,*,49.2%,,49.2%,*
+CP05,01000US,United States,1,3,Female,50.8%,50.8%,*,50.8%,*,50.8%,,50.8%,*
+CP05,01000US,United States,1,4,Sex ratio (males per 100 females),97.0,97.0,*,97.0,*,96.9,,96.9,*
+CP05,01000US,United States,1,4.3,,,,,,,,,,
+CP05,01000US,United States,1,5,Under 5 years,5.9%,6.0%,*,6.1%,*,6.1%,*,6.2%,*
+CP05,01000US,United States,1,6,5 to 9 years,6.0%,6.1%,*,6.2%,*,6.3%,*,6.4%,*
+CP05,01000US,United States,1,7,10 to 14 years,6.5%,6.5%,,6.5%,*,6.4%,*,6.4%,*
+CP05,01000US,United States,1,8,15 to 19 years,6.5%,6.6%,*,6.6%,*,6.7%,*,6.7%,*
+CP05,01000US,United States,1,9,20 to 24 years,6.5%,6.6%,*,6.7%,*,6.9%,*,7.0%,*
+CP05,01000US,United States,1,10,25 to 34 years,13.9%,13.9%,*,13.8%,*,13.7%,*,13.7%,*
+CP05,01000US,United States,1,11,35 to 44 years,12.8%,12.7%,*,12.6%,*,12.6%,*,12.7%,*
+CP05,01000US,United States,1,12,45 to 54 years,12.4%,12.7%,*,13.0%,*,13.2%,*,13.4%,*
+CP05,01000US,United States,1,13,55 to 59 years,6.5%,6.6%,*,6.7%,*,6.7%,*,6.7%,*
+CP05,01000US,United States,1,14,60 to 64 years,6.4%,6.3%,*,6.2%,*,6.1%,*,6.0%,*
+CP05,01000US,United States,1,15,65 to 74 years,9.6%,9.3%,*,9.1%,*,8.9%,*,8.6%,*
+CP05,01000US,United States,1,16,75 to 84 years,4.9%,4.8%,*,4.6%,*,4.4%,*,4.4%,*
+CP05,01000US,United States,1,17,85 years and over,1.9%,1.9%,,1.9%,*,1.9%,,1.9%,*
+CP05,01000US,United States,1,17.3,,,,,,,,,,
+CP05,01000US,United States,1,18,Median age (years),38.5,38.2,*,38.1,*,37.9,*,37.8,*
+CP05,01000US,United States,1,18.3,,,,,,,,,,
+CP05,01000US,United States,1,19,Under 18 years,22.2%,22.4%,*,22.6%,*,22.8%,*,22.9%,*
+CP05,01000US,United States,1,20,16 years and over,80.3%,80.1%,*,80.0%,*,79.8%,*,79.7%,*
+CP05,01000US,United States,1,21,18 years and over,77.8%,77.6%,*,77.4%,*,77.2%,*,77.1%,*
+CP05,01000US,United States,1,22,21 years and over,73.7%,73.5%,*,73.3%,*,73.1%,*,72.9%,*
+CP05,01000US,United States,1,23,62 years and over,20.2%,19.7%,*,19.2%,*,18.8%,*,18.3%,*
+CP05,01000US,United States,1,24,65 years and over,16.5%,16.0%,*,15.6%,*,15.2%,*,14.9%,*
+CP05,01000US,United States,1,24.3,,,,,,,,,,
+CP05,01000US,United States,1,25,18 years and over,"255,271,738","253,815,197",*,"252,070,495",*,"249,489,772",*,"247,789,111",*
+CP05,01000US,United States,1,26,Male,48.7%,48.7%,,48.7%,,48.7%,*,48.6%,*
+CP05,01000US,United States,1,27,Female,51.3%,51.3%,,51.3%,,51.3%,*,51.4%,*
+CP05,01000US,United States,1,28,Sex ratio (males per 100 females),94.9,94.9,,94.9,,94.8,*,94.7,*
+CP05,01000US,United States,1,28.3,,,,,,,,,,
+CP05,01000US,United States,1,29,65 years and over,"54,074,028","52,423,114",*,"50,815,712",*,"49,215,165",*,"47,732,480",*
+CP05,01000US,United States,1,30,Male,44.5%,44.4%,*,44.3%,*,44.2%,*,44.1%,*
+CP05,01000US,United States,1,31,Female,55.5%,55.6%,*,55.7%,*,55.8%,*,55.9%,*
+CP05,01000US,United States,1,32,Sex ratio (males per 100 females),80.1,79.9,*,79.6,*,79.3,*,78.9,*
+CP05,01000US,United States,1,32.3,,,,,,,,,,
+CP05,01000US,United States,1,32.5,RACE,,,,,,,,,
+CP05,01000US,United States,1,33,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP05,01000US,United States,1,34,One race,96.6%,96.6%,,96.7%,*,96.8%,*,96.9%,*
+CP05,01000US,United States,1,35,Two or more races,3.4%,3.4%,,3.3%,*,3.2%,*,3.1%,*
+CP05,01000US,United States,1,35.3,,,,,,,,,,
+CP05,01000US,United States,1,36,One race,96.6%,96.6%,,96.7%,*,96.8%,*,96.9%,*
+CP05,01000US,United States,1,37,White,72.0%,72.2%,*,72.3%,*,72.6%,*,73.1%,*
+CP05,01000US,United States,1,38,Black or African American,12.8%,12.7%,*,12.7%,*,12.7%,*,12.7%,*
+CP05,01000US,United States,1,39,American Indian and Alaska Native,0.9%,0.9%,,0.8%,*,0.8%,*,0.8%,*
+CP05,01000US,United States,1,40,Cherokee tribal grouping,0.1%,0.1%,,0.1%,,0.1%,,0.1%,
+CP05,01000US,United States,1,41,Chippewa tribal grouping,0.0%,0.0%,*,0.0%,,0.0%,,0.0%,*
+CP05,01000US,United States,1,42,Navajo tribal grouping,0.1%,0.1%,,0.1%,,0.1%,*,0.1%,
+CP05,01000US,United States,1,43,Sioux tribal grouping,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP05,01000US,United States,1,44,Asian,5.7%,5.6%,*,5.6%,*,5.4%,*,5.4%,*
+CP05,01000US,United States,1,45,Asian Indian,1.3%,1.3%,,1.3%,*,1.2%,*,1.2%,*
+CP05,01000US,United States,1,46,Chinese,1.3%,1.3%,,1.3%,,1.3%,*,1.3%,*
+CP05,01000US,United States,1,47,Filipino,0.9%,0.9%,,0.9%,,0.9%,*,0.9%,*
+CP05,01000US,United States,1,48,Japanese,0.2%,0.2%,*,0.2%,,0.2%,*,0.2%,
+CP05,01000US,United States,1,49,Korean,0.4%,0.4%,,0.5%,,0.4%,,0.5%,
+CP05,01000US,United States,1,50,Vietnamese,0.6%,0.6%,,0.6%,,0.6%,,0.5%,*
+CP05,01000US,United States,1,51,Other Asian,0.9%,0.9%,*,0.9%,*,0.8%,*,0.8%,*
+CP05,01000US,United States,1,52,Native Hawaiian and Other Pacific Islander,0.2%,0.2%,,0.2%,,0.2%,*,0.2%,*
+CP05,01000US,United States,1,53,Native Hawaiian,0.1%,0.1%,,0.1%,,0.1%,*,0.1%,*
+CP05,01000US,United States,1,54,Guamanian or Chamorro,0.0%,0.0%,*,0.0%,,0.0%,,0.0%,
+CP05,01000US,United States,1,55,Samoan,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP05,01000US,United States,1,56,Other Pacific Islander,0.1%,0.1%,,0.1%,,0.1%,*,0.1%,*
+CP05,01000US,United States,1,57,Some other race,5.0%,5.0%,,5.1%,*,5.1%,*,4.8%,*
+CP05,01000US,United States,1,58,Two or more races,3.4%,3.4%,,3.3%,*,3.2%,*,3.1%,*
+CP05,01000US,United States,1,59,White and Black or African American,1.0%,1.0%,*,0.9%,*,0.9%,*,0.8%,*
+CP05,01000US,United States,1,60,White and American Indian and Alaska Native,0.6%,0.6%,*,0.6%,*,0.6%,*,0.6%,*
+CP05,01000US,United States,1,61,White and Asian,0.8%,0.8%,,0.7%,*,0.7%,*,0.6%,*
+CP05,01000US,United States,1,62,Black or African American and American Indian and Alaska Native,0.1%,0.1%,,0.1%,*,0.1%,*,0.1%,
+CP05,01000US,United States,1,62.3,,,,,,,,,,
+CP05,01000US,United States,1,62.5,Race alone or in combination with one or more other races,,,,,,,,,
+CP05,01000US,United States,1,63,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP05,01000US,United States,1,64,White,75.0%,75.1%,*,75.1%,*,75.4%,*,75.8%,*
+CP05,01000US,United States,1,65,Black or African American,14.2%,14.1%,*,14.1%,*,14.0%,*,13.9%,*
+CP05,01000US,United States,1,66,American Indian and Alaska Native,1.7%,1.7%,,1.7%,,1.7%,,1.7%,*
+CP05,01000US,United States,1,67,Asian,6.8%,6.8%,*,6.6%,*,6.5%,*,6.4%,*
+CP05,01000US,United States,1,68,Native Hawaiian and Other Pacific Islander,0.4%,0.4%,,0.4%,,0.4%,*,0.4%,*
+CP05,01000US,United States,1,69,Some other race,5.5%,5.5%,,5.6%,*,5.6%,,5.3%,*
+CP05,01000US,United States,1,69.3,,,,,,,,,,
+CP05,01000US,United States,1,69.5,HISPANIC OR LATINO AND RACE,,,,,,,,,
+CP05,01000US,United States,1,70,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP05,01000US,United States,1,71,Hispanic or Latino (of any race),18.4%,18.3%,*,18.1%,*,17.8%,*,17.6%,*
+CP05,01000US,United States,1,72,Mexican,11.3%,11.3%,,11.3%,*,11.2%,*,11.1%,*
+CP05,01000US,United States,1,73,Puerto Rican,1.8%,1.8%,,1.7%,*,1.7%,*,1.7%,*
+CP05,01000US,United States,1,74,Cuban,0.7%,0.7%,,0.7%,,0.7%,*,0.7%,*
+CP05,01000US,United States,1,75,Other Hispanic or Latino,4.6%,4.5%,*,4.4%,*,4.2%,*,4.1%,*
+CP05,01000US,United States,1,76,Not Hispanic or Latino,81.6%,81.7%,*,81.9%,*,82.2%,*,82.4%,*
+CP05,01000US,United States,1,77,White alone,60.0%,60.2%,*,60.6%,*,61.1%,*,61.5%,*
+CP05,01000US,United States,1,78,Black or African American alone,12.4%,12.3%,*,12.3%,*,12.3%,*,12.3%,*
+CP05,01000US,United States,1,79,American Indian and Alaska Native alone,0.7%,0.7%,*,0.7%,*,0.7%,*,0.6%,*
+CP05,01000US,United States,1,80,Asian alone,5.6%,5.6%,*,5.5%,*,5.4%,*,5.3%,*
+CP05,01000US,United States,1,81,Native Hawaiian and Other Pacific Islander alone,0.2%,0.2%,,0.2%,,0.2%,*,0.2%,*
+CP05,01000US,United States,1,82,Some other race alone,0.3%,0.3%,,0.3%,,0.2%,*,0.2%,*
+CP05,01000US,United States,1,83,Two or more races,2.5%,2.5%,,2.4%,*,2.4%,*,2.3%,*
+CP05,01000US,United States,1,84,Two races including Some other race,0.1%,0.1%,,0.1%,,0.1%,,0.1%,*
+CP05,01000US,United States,1,85,"Two races excluding Some other race, and Three or more races",2.4%,2.4%,,2.3%,*,2.3%,*,2.2%,*
+CP05,01000US,United States,1,85.3,,,,,,,,,,
+CP05,01000US,United States,1,86,Total housing units,"139,686,209","138,539,906",*,"137,407,308",*,"135,702,775",*,"134,793,665",*
+CP05,01000US,United States,1,86.3,,,,,,,,,,
+CP05,01000US,United States,1,86.5,"CITIZEN, VOTING AGE POPULATION",,,,,,,,,
+CP05,01000US,United States,1,87,"Citizen, 18 and over population","235,418,734","233,565,291",*,"231,416,670",*,"228,849,669",*,"227,019,486",*
+CP05,01000US,United States,1,88,Male,48.5%,48.5%,,48.5%,,48.4%,*,48.4%,*
+CP05,01000US,United States,1,89,Female,51.5%,51.5%,,51.5%,,51.6%,*,51.6%,*

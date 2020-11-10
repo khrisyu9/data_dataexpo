@@ -1,0 +1,200 @@
+TBLID,GEOID,GEONAME,PROFTBL,PROFLN,TITLE,EST_19,EST_18,SIG90_19_18,EST_17,SIG90_19_17,EST_16,SIG90_19_16,EST_15,SIG90_19_15
+CP02,01000US,United States,1,0,COMPARATIVE SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,,,,,,
+CP02,01000US,United States,1,0.5,COMPARATIVE SOCIAL CHARACTERISTICS IN THE UNITED STATES,,,,,,,,,
+CP02,01000US,United States,1,0.8,HOUSEHOLDS BY TYPE,,,,,,,,,
+CP02,01000US,United States,1,1,Total households,"122,802,852","121,520,180",*,"120,062,818",*,"118,860,065",*,"118,208,250",*
+CP02,01000US,United States,1,2,Married-couple family,47.5%,47.9%,*,48.2%,*,47.9%,*,48.0%,*
+CP02,01000US,United States,1,3,With own children of the householder under 18 years,18.0%,18.3%,*,18.6%,*,18.7%,*,18.8%,*
+CP02,01000US,United States,1,4,Cohabiting couple household,6.6%,6.4%,*,6.1%,*,6.1%,*,6.2%,*
+CP02,01000US,United States,1,5,With own children of the householder under 18 years,2.2%,2.2%,,2.1%,*,2.1%,,2.2%,*
+CP02,01000US,United States,1,6,"Male householder, no spouse/partner present",18.2%,18.0%,*,18.0%,*,18.0%,*,17.8%,*
+CP02,01000US,United States,1,7,With own children of the householder under 18 years,1.3%,1.2%,,1.3%,*,1.3%,*,1.3%,*
+CP02,01000US,United States,1,8,Householder living alone,12.7%,12.6%,*,12.5%,*,12.5%,*,12.4%,*
+CP02,01000US,United States,1,9,65 years and over,3.7%,3.5%,*,3.4%,*,3.4%,*,3.3%,*
+CP02,01000US,United States,1,10,"Female householder, no spouse/partner present",27.7%,27.7%,,27.7%,,28.0%,*,28.0%,*
+CP02,01000US,United States,1,11,With own children of the householder under 18 years,5.1%,5.2%,*,5.4%,*,5.5%,*,5.6%,*
+CP02,01000US,United States,1,12,Householder living alone,15.6%,15.4%,*,15.4%,*,15.5%,*,15.5%,*
+CP02,01000US,United States,1,13,65 years and over,7.7%,7.5%,*,7.3%,*,7.3%,*,7.2%,*
+CP02,01000US,United States,1,13.3,,,,,,,,,,
+CP02,01000US,United States,1,14,Households with one or more people under 18 years,29.9%,30.3%,*,30.8%,*,31.1%,*,31.4%,*
+CP02,01000US,United States,1,15,Households with one or more people 65 years and over,30.9%,30.1%,*,29.4%,*,28.8%,*,28.1%,*
+CP02,01000US,United States,1,15.3,,,,,,,,,,
+CP02,01000US,United States,1,16,Average household size,2.61,2.63,*,2.65,*,2.65,*,2.65,*
+CP02,01000US,United States,1,17,Average family size,3.23,3.24,*,3.26,*,3.27,*,3.26,*
+CP02,01000US,United States,1,17.3,,,,,,,,,,
+CP02,01000US,United States,1,17.5,RELATIONSHIP,,,,,,,,,
+CP02,01000US,United States,1,18,Population in households,"320,155,161","319,075,830",c,"317,631,941",c,"315,047,636",c,"313,347,925",c
+CP02,01000US,United States,1,19,Householder,38.4%,38.1%,*,37.8%,*,37.7%,*,37.7%,*
+CP02,01000US,United States,1,20,Spouse,18.2%,18.2%,,18.2%,,18.1%,*,18.1%,*
+CP02,01000US,United States,1,21,Unmarried partner,2.5%,2.5%,*,2.3%,*,2.3%,*,2.4%,*
+CP02,01000US,United States,1,22,Child,29.6%,29.9%,*,30.2%,*,30.3%,*,30.4%,*
+CP02,01000US,United States,1,23,Other relatives,7.5%,7.5%,,7.6%,*,7.6%,*,7.6%,
+CP02,01000US,United States,1,24,Other nonrelatives,3.8%,3.8%,,3.9%,*,4.0%,*,3.9%,*
+CP02,01000US,United States,1,24.3,,,,,,,,,,
+CP02,01000US,United States,1,24.5,MARITAL STATUS,,,,,,,,,
+CP02,01000US,United States,1,25,Males 15 years and over,"130,629,205","129,973,543",*,"129,185,808",*,"127,863,548",*,"127,013,406",*
+CP02,01000US,United States,1,26,Never married,37.1%,37.0%,*,36.9%,*,36.9%,*,36.7%,*
+CP02,01000US,United States,1,27,"Now married, except separated",49.1%,49.3%,*,49.3%,*,49.1%,,49.2%,*
+CP02,01000US,United States,1,28,Separated,1.6%,1.6%,,1.6%,*,1.7%,*,1.7%,*
+CP02,01000US,United States,1,29,Widowed,2.7%,2.6%,,2.6%,*,2.6%,,2.6%,*
+CP02,01000US,United States,1,30,Divorced,9.6%,9.5%,*,9.6%,,9.7%,,9.7%,*
+CP02,01000US,United States,1,30.3,,,,,,,,,,
+CP02,01000US,United States,1,31,Females 15 years and over,"137,091,567","136,348,759",*,"135,511,496",*,"134,276,506",*,"133,401,746",*
+CP02,01000US,United States,1,32,Never married,30.8%,30.7%,*,30.6%,*,30.6%,*,30.5%,*
+CP02,01000US,United States,1,33,"Now married, except separated",46.3%,46.3%,,46.4%,,46.0%,*,45.9%,*
+CP02,01000US,United States,1,34,Separated,2.0%,2.2%,*,2.2%,*,2.3%,*,2.3%,*
+CP02,01000US,United States,1,35,Widowed,8.6%,8.7%,,8.7%,*,8.8%,*,8.9%,*
+CP02,01000US,United States,1,36,Divorced,12.2%,12.1%,,12.1%,,12.3%,,12.3%,*
+CP02,01000US,United States,1,36.3,,,,,,,,,,
+CP02,01000US,United States,1,36.5,FERTILITY,,,,,,,,,
+CP02,01000US,United States,1,37,Number of women 15 to 50 years old who had a birth in the past 12 months,"3,877,882","3,956,960",*,"3,997,394",*,"3,946,903",*,"3,931,053",*
+CP02,01000US,United States,1,38,"Unmarried women (widowed, divorced, and never married)",32.8%,33.9%,*,33.7%,*,35.0%,*,35.7%,*
+CP02,01000US,United States,1,39,"Per 1,000 unmarried women",29,31,*,31,*,32,*,32,*
+CP02,01000US,United States,1,40,"Per 1,000 women 15 to 50 years old",50,51,*,52,*,52,*,51,*
+CP02,01000US,United States,1,41,"Per 1,000 women 15 to 19 years old",11,12,*,12,*,14,*,16,*
+CP02,01000US,United States,1,42,"Per 1,000 women 20 to 34 years old",84,86,*,88,*,89,*,89,*
+CP02,01000US,United States,1,43,"Per 1,000 women 35 to 50 years old",30,30,,29,*,26,*,25,*
+CP02,01000US,United States,1,43.3,,,,,,,,,,
+CP02,01000US,United States,1,43.5,GRANDPARENTS,,,,,,,,,
+CP02,01000US,United States,1,44,Number of grandparents living with own grandchildren under 18 years,"7,048,339","7,114,520",,"7,245,403",*,"7,271,261",*,"7,292,016",*
+CP02,01000US,United States,1,45,Grandparents responsible for grandchildren,33.1%,33.7%,*,33.4%,,34.7%,*,35.3%,*
+CP02,01000US,United States,1,45.9,Years responsible for grandchildren,,,,,,,,,
+CP02,01000US,United States,1,46,Less than 1 year,5.7%,6.0%,*,6.1%,*,6.7%,*,7.1%,*
+CP02,01000US,United States,1,47,1 or 2 years,6.4%,7.0%,*,7.1%,*,7.5%,*,7.7%,*
+CP02,01000US,United States,1,48,3 or 4 years,5.5%,5.4%,,5.6%,,5.6%,,5.7%,*
+CP02,01000US,United States,1,49,5 or more years,15.6%,15.3%,,14.6%,*,14.9%,*,14.7%,*
+CP02,01000US,United States,1,49.3,,,,,,,,,,
+CP02,01000US,United States,1,50,Number of grandparents responsible for own grandchildren under 18 years,"2,335,355","2,401,111",*,"2,416,814",*,"2,519,737",*,"2,572,146",*
+CP02,01000US,United States,1,51,Who are female,63.3%,63.1%,,63.6%,,62.7%,,62.9%,
+CP02,01000US,United States,1,52,Who are married,67.3%,68.5%,*,67.8%,,69.3%,*,69.3%,*
+CP02,01000US,United States,1,52.3,,,,,,,,,,
+CP02,01000US,United States,1,52.5,SCHOOL ENROLLMENT,,,,,,,,,
+CP02,01000US,United States,1,53,Population 3 years and over enrolled in school,"80,465,620","80,916,775",*,"81,273,337",*,"81,572,277",*,"81,618,288",*
+CP02,01000US,United States,1,54,"Nursery school, preschool",6.3%,6.1%,*,6.0%,*,6.0%,*,6.0%,*
+CP02,01000US,United States,1,55,Kindergarten,5.0%,4.9%,*,4.9%,,5.0%,,5.0%,
+CP02,01000US,United States,1,56,Elementary school (grades 1-8),40.6%,40.5%,,40.5%,,40.3%,*,40.3%,*
+CP02,01000US,United States,1,57,High school (grades 9-12),21.0%,21.1%,*,21.1%,,21.0%,,20.9%,*
+CP02,01000US,United States,1,58,College or graduate school,27.1%,27.3%,*,27.4%,*,27.7%,*,27.8%,*
+CP02,01000US,United States,1,58.3,,,,,,,,,,
+CP02,01000US,United States,1,58.5,EDUCATIONAL ATTAINMENT,,,,,,,,,
+CP02,01000US,United States,1,59,Population 25 years and over,"224,898,568","223,158,847",*,"221,250,083",*,"218,475,480",*,"216,447,163",*
+CP02,01000US,United States,1,60,Less than 9th grade,4.8%,5.0%,*,5.1%,*,5.4%,*,5.5%,*
+CP02,01000US,United States,1,61,"9th to 12th grade, no diploma",6.6%,6.7%,*,6.9%,*,7.2%,*,7.3%,*
+CP02,01000US,United States,1,62,High school graduate (includes equivalency),26.9%,26.9%,,27.1%,*,27.2%,*,27.6%,*
+CP02,01000US,United States,1,63,"Some college, no degree",20.0%,20.3%,*,20.4%,*,20.6%,*,20.7%,*
+CP02,01000US,United States,1,64,Associate's degree,8.6%,8.6%,,8.5%,*,8.4%,*,8.2%,*
+CP02,01000US,United States,1,65,Bachelor's degree,20.3%,20.0%,*,19.7%,*,19.3%,*,19.0%,*
+CP02,01000US,United States,1,66,Graduate or professional degree,12.8%,12.6%,*,12.3%,*,11.9%,*,11.6%,*
+CP02,01000US,United States,1,66.3,,,,,,,,,,
+CP02,01000US,United States,1,67,High school graduate or higher,88.6%,88.3%,*,88.0%,*,87.5%,*,87.1%,*
+CP02,01000US,United States,1,68,Bachelor's degree or higher,33.1%,32.6%,*,32.0%,*,31.3%,*,30.6%,*
+CP02,01000US,United States,1,68.3,,,,,,,,,,
+CP02,01000US,United States,1,68.5,VETERAN STATUS,,,,,,,,,
+CP02,01000US,United States,1,69,Civilian population 18 years and over,"254,046,196","252,806,449",*,"251,047,650",*,"248,478,651",*,"246,780,172",*
+CP02,01000US,United States,1,70,Civilian veterans,6.9%,7.1%,*,7.3%,*,7.4%,*,7.6%,*
+CP02,01000US,United States,1,70.3,,,,,,,,,,
+CP02,01000US,United States,1,70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,,,,,,
+CP02,01000US,United States,1,71,Total Civilian Noninstitutionalized Population,"323,120,678","322,249,485",*,"320,775,014",*,"318,175,867",*,"316,450,569",*
+CP02,01000US,United States,1,72,With a disability,12.7%,12.6%,*,12.7%,,12.8%,*,12.6%,*
+CP02,01000US,United States,1,72.3,,,,,,,,,,
+CP02,01000US,United States,1,73,Under 18 years,"72,835,047","73,223,593",*,"73,509,396",*,"73,503,793",*,"73,491,931",*
+CP02,01000US,United States,1,74,With a disability,4.3%,4.2%,*,4.2%,*,4.3%,,4.1%,*
+CP02,01000US,United States,1,74.3,,,,,,,,,,
+CP02,01000US,United States,1,75,18 to 64 years,"197,503,214","197,888,546",*,"197,765,139",*,"196,766,286",*,"196,521,616",*
+CP02,01000US,United States,1,76,With a disability,10.3%,10.2%,,10.3%,*,10.6%,*,10.4%,*
+CP02,01000US,United States,1,76.3,,,,,,,,,,
+CP02,01000US,United States,1,77,65 years and over,"52,782,417","51,137,346",*,"49,500,479",*,"47,905,788",*,"46,437,022",*
+CP02,01000US,United States,1,78,With a disability,33.5%,33.9%,*,34.6%,*,35.2%,*,35.4%,*
+CP02,01000US,United States,1,78.3,,,,,,,,,,
+CP02,01000US,United States,1,78.5,RESIDENCE 1 YEAR AGO,,,,,,,,,
+CP02,01000US,United States,1,79,Population 1 year and over,"324,665,523","323,531,965",*,"321,994,428",*,"319,361,956",*,"317,635,720",*
+CP02,01000US,United States,1,80,Same house,86.3%,86.0%,*,85.7%,*,85.4%,*,85.3%,*
+CP02,01000US,United States,1,81,Different house in the U.S.,13.1%,13.4%,*,13.6%,*,13.9%,*,14.1%,*
+CP02,01000US,United States,1,82,Same county,7.5%,7.9%,*,8.1%,*,8.3%,*,8.5%,*
+CP02,01000US,United States,1,83,Different county,5.5%,5.6%,*,5.6%,*,5.6%,*,5.6%,*
+CP02,01000US,United States,1,84,Same state,3.2%,3.3%,,3.3%,,3.2%,,3.2%,
+CP02,01000US,United States,1,85,Different state,2.3%,2.3%,*,2.3%,*,2.4%,*,2.4%,*
+CP02,01000US,United States,1,86,Abroad,0.6%,0.6%,*,0.7%,*,0.7%,*,0.7%,*
+CP02,01000US,United States,1,86.3,,,,,,,,,,
+CP02,01000US,United States,1,86.5,PLACE OF BIRTH,,,,,,,,,
+CP02,01000US,United States,1,87,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP02,01000US,United States,1,88,Native,86.3%,86.3%,,86.3%,,86.5%,*,86.5%,*
+CP02,01000US,United States,1,89,Born in United States,84.7%,84.7%,,84.7%,*,84.9%,*,85.0%,*
+CP02,01000US,United States,1,90,State of residence,58.0%,58.1%,,58.2%,*,58.3%,*,58.5%,*
+CP02,01000US,United States,1,91,Different state,26.7%,26.6%,,26.5%,*,26.6%,*,26.5%,*
+CP02,01000US,United States,1,92,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",1.6%,1.6%,,1.6%,*,1.5%,*,1.5%,*
+CP02,01000US,United States,1,93,Foreign born,13.7%,13.7%,,13.7%,,13.5%,*,13.5%,*
+CP02,01000US,United States,1,93.3,,,,,,,,,,
+CP02,01000US,United States,1,93.5,U.S. CITIZENSHIP STATUS,,,,,,,,,
+CP02,01000US,United States,1,94,Foreign-born population,"44,932,901","44,728,721",,"44,525,855",*,"43,739,345",*,"43,290,372",*
+CP02,01000US,United States,1,95,Naturalized U.S. citizen,51.6%,50.6%,*,49.3%,*,48.6%,*,47.8%,*
+CP02,01000US,United States,1,96,Not a U.S. citizen,48.4%,49.4%,*,50.7%,*,51.4%,*,52.2%,*
+CP02,01000US,United States,1,96.3,,,,,,,,,,
+CP02,01000US,United States,1,96.5,YEAR OF ENTRY,,,,,,,,,
+CP02,01000US,United States,1,97,Population born outside the United States,"50,313,292","50,046,901",*,"49,692,588",*,"48,742,544",*,"48,178,877",*
+CP02,01000US,United States,1,97.3,,,,,,,,,,
+CP02,01000US,United States,1,98,Native,"5,380,391","5,318,180",,"5,166,733",*,"5,003,199",*,"4,888,505",*
+CP02,01000US,United States,1,99,Entered 2010 or later,26.4%,23.9%,*,21.5%,*,18.2%,*,15.2%,*
+CP02,01000US,United States,1,100,Entered before 2010,73.6%,76.1%,*,78.5%,*,81.8%,*,84.8%,*
+CP02,01000US,United States,1,100.3,,,,,,,,,,
+CP02,01000US,United States,1,101,Foreign born,"44,932,901","44,728,721",,"44,525,855",*,"43,739,345",*,"43,290,372",*
+CP02,01000US,United States,1,102,Entered 2010 or later,24.8%,23.3%,*,21.3%,*,18.6%,*,15.6%,*
+CP02,01000US,United States,1,103,Entered before 2010,75.2%,76.7%,*,78.7%,*,81.4%,*,84.4%,*
+CP02,01000US,United States,1,103.3,,,,,,,,,,
+CP02,01000US,United States,1,103.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,,,,,,
+CP02,01000US,United States,1,104,"Foreign-born population, excluding population born at sea","44,932,799","44,728,502",,"44,525,458",*,"43,738,901",*,"43,289,646",*
+CP02,01000US,United States,1,105,Europe,10.4%,10.6%,*,10.8%,*,10.9%,*,11.1%,*
+CP02,01000US,United States,1,106,Asia,31.4%,31.2%,*,31.2%,,30.8%,*,30.6%,*
+CP02,01000US,United States,1,107,Africa,5.5%,5.4%,,5.1%,*,4.9%,*,4.8%,*
+CP02,01000US,United States,1,108,Oceania,0.7%,0.6%,*,0.6%,*,0.6%,*,0.6%,*
+CP02,01000US,United States,1,109,Latin America,50.3%,50.3%,,50.4%,,51.0%,*,51.1%,*
+CP02,01000US,United States,1,110,Northern America,1.8%,1.8%,,1.8%,,1.8%,,1.9%,*
+CP02,01000US,United States,1,110.3,,,,,,,,,,
+CP02,01000US,United States,1,110.5,LANGUAGE SPOKEN AT HOME,,,,,,,,,
+CP02,01000US,United States,1,111,Population 5 years and over,"308,834,688","307,521,124",*,"305,924,019",*,"303,328,961",*,"301,625,014",*
+CP02,01000US,United States,1,112,English only,78.0%,78.1%,,78.2%,*,78.4%,*,78.5%,*
+CP02,01000US,United States,1,113,Language other than English,22.0%,21.9%,,21.8%,*,21.6%,*,21.5%,*
+CP02,01000US,United States,1,114,"Speak English less than ""very well""",8.2%,8.3%,*,8.5%,*,8.6%,*,8.6%,*
+CP02,01000US,United States,1,115,Spanish,13.5%,13.5%,,13.4%,*,13.3%,*,13.3%,*
+CP02,01000US,United States,1,116,"Speak English less than ""very well""",5.2%,5.3%,*,5.4%,*,5.5%,*,5.4%,*
+CP02,01000US,United States,1,117,Other Indo-European languages,3.7%,3.7%,*,3.7%,,3.7%,*,3.7%,
+CP02,01000US,United States,1,118,"Speak English less than ""very well""",1.1%,1.1%,,1.1%,*,1.1%,*,1.2%,*
+CP02,01000US,United States,1,119,Asian and Pacific Islander languages,3.6%,3.6%,,3.5%,,3.5%,*,3.5%,*
+CP02,01000US,United States,1,120,"Speak English less than ""very well""",1.6%,1.6%,*,1.6%,*,1.6%,*,1.6%,*
+CP02,01000US,United States,1,121,Other languages,1.2%,1.2%,,1.1%,*,1.1%,*,1.0%,*
+CP02,01000US,United States,1,122,"Speak English less than ""very well""",0.3%,0.3%,,0.3%,,0.3%,,0.3%,*
+CP02,01000US,United States,1,122.3,,,,,,,,,,
+CP02,01000US,United States,1,122.5,ANCESTRY,,,,,,,,,
+CP02,01000US,United States,1,123,Total population,"328,239,523","327,167,439",c,"325,719,178",c,"323,127,515",c,"321,418,821",c
+CP02,01000US,United States,1,124,American,6.1%,6.0%,*,6.1%,,6.2%,*,6.8%,*
+CP02,01000US,United States,1,125,Arab,0.6%,0.6%,,0.6%,*,0.6%,,0.6%,*
+CP02,01000US,United States,1,126,Czech,0.4%,0.4%,,0.4%,*,0.4%,*,0.4%,*
+CP02,01000US,United States,1,127,Danish,0.4%,0.4%,,0.4%,*,0.4%,*,0.4%,*
+CP02,01000US,United States,1,128,Dutch,1.1%,1.1%,*,1.2%,*,1.3%,*,1.3%,*
+CP02,01000US,United States,1,129,English,7.2%,7.0%,*,7.1%,*,7.4%,*,7.5%,*
+CP02,01000US,United States,1,130,French (except Basque),2.2%,2.2%,*,2.4%,*,2.5%,*,2.5%,*
+CP02,01000US,United States,1,131,French Canadian,0.6%,0.6%,*,0.6%,*,0.7%,*,0.6%,*
+CP02,01000US,United States,1,132,German,12.3%,12.6%,*,13.2%,*,13.9%,*,14.2%,*
+CP02,01000US,United States,1,133,Greek,0.4%,0.4%,*,0.4%,,0.4%,*,0.4%,*
+CP02,01000US,United States,1,134,Hungarian,0.4%,0.4%,,0.4%,*,0.4%,*,0.4%,*
+CP02,01000US,United States,1,135,Irish,9.2%,9.4%,*,9.7%,*,10.0%,*,10.2%,*
+CP02,01000US,United States,1,136,Italian,4.9%,5.0%,*,5.1%,*,5.2%,*,5.3%,*
+CP02,01000US,United States,1,137,Lithuanian,0.2%,0.2%,,0.2%,,0.2%,,0.2%,
+CP02,01000US,United States,1,138,Norwegian,1.3%,1.3%,*,1.3%,,1.4%,*,1.4%,*
+CP02,01000US,United States,1,139,Polish,2.7%,2.7%,,2.8%,*,2.9%,*,2.9%,*
+CP02,01000US,United States,1,140,Portuguese,0.4%,0.4%,,0.4%,,0.4%,,0.4%,
+CP02,01000US,United States,1,141,Russian,0.7%,0.8%,*,0.8%,*,0.9%,*,0.8%,*
+CP02,01000US,United States,1,142,Scotch-Irish,0.9%,0.9%,,0.9%,*,1.0%,*,0.9%,*
+CP02,01000US,United States,1,143,Scottish,1.6%,1.6%,*,1.7%,*,1.8%,*,1.7%,*
+CP02,01000US,United States,1,144,Slovak,0.2%,0.2%,,0.2%,,0.2%,*,0.2%,*
+CP02,01000US,United States,1,145,Subsaharan African,1.2%,1.2%,,1.2%,,1.1%,*,1.1%,*
+CP02,01000US,United States,1,146,Swedish,1.1%,1.1%,*,1.1%,*,1.2%,*,1.2%,*
+CP02,01000US,United States,1,147,Swiss,0.3%,0.3%,,0.3%,,0.3%,*,0.3%,*
+CP02,01000US,United States,1,148,Ukrainian,0.3%,0.3%,,0.3%,,0.3%,,0.3%,
+CP02,01000US,United States,1,149,Welsh,0.6%,0.6%,*,0.6%,*,0.6%,,0.6%,*
+CP02,01000US,United States,1,150,West Indian (excluding Hispanic origin groups),0.9%,0.9%,*,0.9%,,0.9%,,0.9%,
+CP02,01000US,United States,1,150.3,,,,,,,,,,
+CP02,01000US,United States,1,150.5,COMPUTERS AND INTERNET USE,,,,,,,,,
+CP02,01000US,United States,1,151,Total households,"122,802,852","121,520,180",*,"120,062,818",*,"118,860,065",*,(X),
+CP02,01000US,United States,1,152,With a computer,92.9%,91.8%,*,90.8%,*,89.3%,*,(X),
+CP02,01000US,United States,1,153,With a broadband Internet subscription,86.4%,85.1%,*,83.5%,*,81.4%,*,(X),

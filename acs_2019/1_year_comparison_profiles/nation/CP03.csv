@@ -1,0 +1,169 @@
+TBLID,GEOID,GEONAME,PROFTBL,PROFLN,TITLE,EST_19,EST_18,SIG90_19_18,EST_17,SIG90_19_17,EST_16,SIG90_19_16,EST_15,SIG90_19_15
+CP03,01000US,United States,1,0,COMPARATIVE ECONOMIC CHARACTERISTICS,,,,,,,,,
+CP03,01000US,United States,1,0.5,COMPARATIVE ECONOMIC CHARACTERISTICS,,,,,,,,,
+CP03,01000US,United States,1,0.8,EMPLOYMENT STATUS,,,,,,,,,
+CP03,01000US,United States,1,1,Population 16 years and over,"263,534,161","262,185,951",*,"260,564,248",*,"257,950,721",*,"256,167,758",*
+CP03,01000US,United States,1,2,In labor force,63.6%,63.3%,*,63.2%,*,63.1%,*,63.1%,*
+CP03,01000US,United States,1,3,Civilian labor force,63.1%,62.9%,*,62.8%,*,62.8%,*,62.7%,*
+CP03,01000US,United States,1,4,Employed,60.2%,59.8%,*,59.5%,*,59.1%,*,58.8%,*
+CP03,01000US,United States,1,5,Unemployed,2.9%,3.1%,*,3.3%,*,3.6%,*,3.9%,*
+CP03,01000US,United States,1,6,Armed Forces,0.5%,0.4%,*,0.4%,*,0.4%,*,0.4%,*
+CP03,01000US,United States,1,7,Not in labor force,36.4%,36.7%,*,36.8%,*,36.9%,*,36.9%,*
+CP03,01000US,United States,1,7.3,,,,,,,,,,
+CP03,01000US,United States,1,8,Civilian labor force,"166,274,373","164,898,275",*,"163,703,561",*,"161,879,627",*,"160,652,483",*
+CP03,01000US,United States,1,9,Unemployment Rate,4.5,4.9,*,5.3,*,5.8,*,6.3,*
+CP03,01000US,United States,1,9.3,,,,,,,,,,
+CP03,01000US,United States,1,10,Females 16 years and over,"135,038,002","134,318,577",*,"133,482,879",*,"132,227,193",*,"131,333,465",*
+CP03,01000US,United States,1,11,In labor force,58.8%,58.5%,*,58.3%,*,58.2%,*,58.1%,*
+CP03,01000US,United States,1,12,Civilian labor force,58.6%,58.3%,*,58.2%,*,58.1%,*,58.0%,*
+CP03,01000US,United States,1,13,Employed,56.1%,55.5%,*,55.2%,*,54.8%,*,54.4%,*
+CP03,01000US,United States,1,13.3,,,,,,,,,,
+CP03,01000US,United States,1,14,Own children of the householder under 6 years,"22,217,941","22,542,394",*,"22,690,943",*,"22,798,400",*,"22,863,705",*
+CP03,01000US,United States,1,15,All parents in family in labor force,67.5%,66.7%,*,65.9%,*,65.5%,*,65.1%,*
+CP03,01000US,United States,1,15.3,,,,,,,,,,
+CP03,01000US,United States,1,16,Own children of the householder 6 to 17 years,"46,670,652","46,955,632",*,"47,167,941",*,"47,090,847",*,"47,080,679",*
+CP03,01000US,United States,1,17,All parents in family in labor force,72.5%,71.8%,*,71.3%,*,71.0%,*,70.3%,*
+CP03,01000US,United States,1,17.3,,,,,,,,,,
+CP03,01000US,United States,1,17.5,COMMUTING TO WORK,,,,,,,,,
+CP03,01000US,United States,1,18,Workers 16 years and over,"156,941,346","154,609,443",*,"152,802,672",*,"150,377,159",*,"148,324,160",*
+CP03,01000US,United States,1,19,"Car, truck, or van -- drove alone",75.9%,76.3%,*,76.4%,*,76.3%,*,76.6%,*
+CP03,01000US,United States,1,20,"Car, truck, or van -- carpooled",8.9%,9.0%,*,8.9%,,9.0%,*,9.0%,*
+CP03,01000US,United States,1,21,Public transportation (excluding taxicab),5.0%,4.9%,,5.0%,*,5.1%,*,5.2%,*
+CP03,01000US,United States,1,22,Walked,2.6%,2.6%,*,2.7%,,2.7%,*,2.8%,*
+CP03,01000US,United States,1,23,Other means,1.9%,1.9%,*,1.8%,*,1.8%,*,1.8%,*
+CP03,01000US,United States,1,24,Worked from home,5.7%,5.3%,*,5.2%,*,5.0%,*,4.6%,*
+CP03,01000US,United States,1,24.3,,,,,,,,,,
+CP03,01000US,United States,1,25,Mean travel time to work (minutes),27.6,27.1,*,26.9,*,26.6,*,26.4,*
+CP03,01000US,United States,1,25.3,,,,,,,,,,
+CP03,01000US,United States,1,25.5,OCCUPATION,,,,,,,,,
+CP03,01000US,United States,1,26,Civilian employed population 16 years and over,"158,758,794","156,783,165",*,(X),,(X),,(X),
+CP03,01000US,United States,1,27,"Management, business, science, and arts occupations",39.9%,38.6%,*,(X),,(X),,(X),
+CP03,01000US,United States,1,28,Service occupations,17.7%,17.8%,*,(X),,(X),,(X),
+CP03,01000US,United States,1,29,Sales and office occupations,20.4%,21.4%,*,(X),,(X),,(X),
+CP03,01000US,United States,1,30,"Natural resources, construction, and maintenance occupations",8.8%,8.8%,,(X),,(X),,(X),
+CP03,01000US,United States,1,31,"Production, transportation, and material moving occupations",13.2%,13.3%,*,(X),,(X),,(X),
+CP03,01000US,United States,1,31.3,,,,,,,,,,
+CP03,01000US,United States,1,31.5,INDUSTRY,,,,,,,,,
+CP03,01000US,United States,1,32,Civilian employed population 16 years and over,"158,758,794","156,783,165",*,"155,058,331",*,"152,571,041",*,"150,534,773",*
+CP03,01000US,United States,1,33,"Agriculture, forestry, fishing and hunting, and mining",1.7%,1.8%,*,1.7%,,1.7%,,1.9%,*
+CP03,01000US,United States,1,34,Construction,7.0%,6.7%,*,6.6%,*,6.4%,*,6.4%,*
+CP03,01000US,United States,1,35,Manufacturing,9.9%,10.0%,*,10.1%,*,10.1%,*,10.3%,*
+CP03,01000US,United States,1,36,Wholesale trade,2.5%,2.5%,*,2.6%,*,2.7%,*,2.7%,*
+CP03,01000US,United States,1,37,Retail trade,10.8%,11.0%,*,11.2%,*,11.5%,*,11.5%,*
+CP03,01000US,United States,1,38,"Transportation and warehousing, and utilities",5.6%,5.5%,*,5.4%,*,5.2%,*,5.1%,*
+CP03,01000US,United States,1,39,Information,1.9%,1.9%,*,2.0%,*,2.1%,*,2.1%,*
+CP03,01000US,United States,1,40,"Finance and insurance, and real estate and rental and leasing",6.5%,6.5%,,6.6%,*,6.6%,*,6.5%,
+CP03,01000US,United States,1,41,"Professional, scientific, and management, and administrative and waste management services",11.8%,11.7%,*,11.5%,*,11.4%,*,11.3%,*
+CP03,01000US,United States,1,42,"Educational services, and health care and social assistance",23.3%,23.1%,*,23.1%,*,23.0%,*,22.9%,*
+CP03,01000US,United States,1,43,"Arts, entertainment, and recreation, and accommodation and food services",9.7%,9.7%,,9.7%,,9.8%,*,9.8%,*
+CP03,01000US,United States,1,44,"Other services, except public administration",4.8%,4.9%,*,4.9%,*,4.9%,*,4.9%,*
+CP03,01000US,United States,1,45,Public administration,4.5%,4.6%,*,4.6%,*,4.6%,*,4.6%,*
+CP03,01000US,United States,1,45.3,,,,,,,,,,
+CP03,01000US,United States,1,45.5,CLASS OF WORKER,,,,,,,,,
+CP03,01000US,United States,1,46,Civilian employed population 16 years and over,"158,758,794","156,783,165",*,"155,058,331",*,"152,571,041",*,"150,534,773",*
+CP03,01000US,United States,1,47,Private wage and salary workers,80.0%,80.5%,*,80.3%,*,80.2%,*,80.3%,*
+CP03,01000US,United States,1,48,Government workers,14.0%,13.4%,*,13.5%,*,13.6%,*,13.6%,*
+CP03,01000US,United States,1,49,Self-employed in own not incorporated business workers,5.8%,5.9%,*,6.0%,*,6.0%,*,5.9%,*
+CP03,01000US,United States,1,50,Unpaid family workers,0.2%,0.2%,*,0.2%,*,0.2%,*,0.2%,*
+CP03,01000US,United States,1,50.3,,,,,,,,,,
+CP03,01000US,United States,1,50.5,INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS),,,,,,,,,
+CP03,01000US,United States,1,51,Total households,"122,802,852","121,520,180",*,"120,062,818",*,"118,860,065",*,"118,208,250",*
+CP03,01000US,United States,1,52,"Less than $10,000",5.8%,6.2%,*,6.1%,*,6.2%,*,6.3%,*
+CP03,01000US,United States,1,53,"$10,000 to $14,999",4.0%,4.3%,*,4.4%,*,4.4%,*,4.5%,*
+CP03,01000US,United States,1,54,"$15,000 to $24,999",8.3%,8.9%,*,8.7%,*,9.2%,*,9.7%,*
+CP03,01000US,United States,1,55,"$25,000 to $34,999",8.4%,8.7%,*,9.1%,*,9.2%,*,9.4%,*
+CP03,01000US,United States,1,56,"$35,000 to $49,999",11.9%,12.3%,*,12.2%,*,12.5%,*,12.7%,*
+CP03,01000US,United States,1,57,"$50,000 to $74,999",17.4%,17.2%,*,17.4%,,17.1%,*,17.0%,*
+CP03,01000US,United States,1,58,"$75,000 to $99,999",12.8%,12.6%,*,12.5%,*,12.7%,*,12.8%,
+CP03,01000US,United States,1,59,"$100,000 to $149,999",15.7%,15.2%,*,15.2%,*,14.8%,*,14.4%,*
+CP03,01000US,United States,1,60,"$150,000 to $199,999",7.2%,6.8%,*,6.7%,*,6.6%,*,6.4%,*
+CP03,01000US,United States,1,61,"$200,000 or more",8.5%,7.9%,*,7.6%,*,7.3%,*,6.8%,*
+CP03,01000US,United States,1,62,Median household income (dollars),"65,712","62,860",*,"62,876",*,"61,369",*,"59,789",*
+CP03,01000US,United States,1,63,Mean household income (dollars),"92,324","89,456",*,"88,154",*,"86,663",*,"84,578",*
+CP03,01000US,United States,1,63.3,,,,,,,,,,
+CP03,01000US,United States,1,64,With earnings,77.4%,77.5%,*,77.6%,*,77.6%,*,77.6%,*
+CP03,01000US,United States,1,65,Mean earnings (dollars),"93,563","91,724",*,"90,444",*,"88,822",*,"86,230",*
+CP03,01000US,United States,1,66,With Social Security,31.7%,31.6%,,31.2%,*,31.1%,*,30.8%,*
+CP03,01000US,United States,1,67,Mean Social Security income (dollars),"19,872","19,726",*,"19,870",,"19,875",,"19,739",*
+CP03,01000US,United States,1,68,With retirement income,24.5%,18.8%,*,18.7%,*,18.7%,*,18.6%,*
+CP03,01000US,United States,1,69,Mean retirement income (dollars),"28,381","27,982",*,"27,809",*,"27,517",*,"26,919",*
+CP03,01000US,United States,1,69.3,,,,,,,,,,
+CP03,01000US,United States,1,70,With Supplemental Security Income,5.2%,5.4%,*,5.3%,*,5.5%,*,5.5%,*
+CP03,01000US,United States,1,71,Mean Supplemental Security Income (dollars),"9,824","10,020",*,"10,136",*,"10,219",*,"10,195",*
+CP03,01000US,United States,1,72,With cash public assistance income,2.2%,2.3%,*,2.3%,*,2.5%,*,2.5%,*
+CP03,01000US,United States,1,73,Mean cash public assistance income (dollars),"3,009","3,059",,"3,162",*,"3,257",*,"3,327",*
+CP03,01000US,United States,1,74,With Food Stamp/SNAP benefits in the past 12 months,10.7%,11.3%,*,11.7%,*,12.4%,*,12.8%,*
+CP03,01000US,United States,1,74.3,,,,,,,,,,
+CP03,01000US,United States,1,75,Families,"79,594,270","79,241,578",*,"78,631,163",*,"77,785,962",*,"77,530,756",*
+CP03,01000US,United States,1,76,"Less than $10,000",3.3%,3.6%,*,3.7%,*,3.8%,*,4.0%,*
+CP03,01000US,United States,1,77,"$10,000 to $14,999",2.1%,2.3%,*,2.4%,*,2.4%,*,2.5%,*
+CP03,01000US,United States,1,78,"$15,000 to $24,999",5.6%,6.2%,*,6.1%,*,6.5%,*,6.9%,*
+CP03,01000US,United States,1,79,"$25,000 to $34,999",6.9%,7.3%,*,7.6%,*,7.7%,*,7.9%,*
+CP03,01000US,United States,1,80,"$35,000 to $49,999",10.8%,11.3%,*,11.3%,*,11.5%,*,11.9%,*
+CP03,01000US,United States,1,81,"$50,000 to $74,999",17.4%,17.6%,*,17.7%,*,17.5%,,17.6%,*
+CP03,01000US,United States,1,82,"$75,000 to $99,999",14.4%,14.3%,*,14.2%,*,14.4%,,14.5%,
+CP03,01000US,United States,1,83,"$100,000 to $149,999",19.1%,18.5%,*,18.5%,*,18.1%,*,17.7%,*
+CP03,01000US,United States,1,84,"$150,000 to $199,999",9.2%,8.7%,*,8.6%,*,8.5%,*,8.2%,*
+CP03,01000US,United States,1,85,"$200,000 or more",11.1%,10.3%,*,9.9%,*,9.5%,*,8.9%,*
+CP03,01000US,United States,1,86,Median family income (dollars),"80,944","77,721",*,"77,014",*,"75,674",*,"73,548",*
+CP03,01000US,United States,1,87,Mean family income (dollars),"108,587","105,054",*,"103,369",*,"101,586",*,"98,804",*
+CP03,01000US,United States,1,87.3,,,,,,,,,,
+CP03,01000US,United States,1,88,Per capita income (dollars),"35,672","34,444",*,"33,788",*,"33,163",*,"32,351",*
+CP03,01000US,United States,1,88.3,,,,,,,,,,
+CP03,01000US,United States,1,89,Nonfamily households,"43,208,582","42,278,602",*,"41,431,655",*,"41,074,103",*,"40,677,494",*
+CP03,01000US,United States,1,90,Median nonfamily income (dollars),"39,871","37,439",*,"37,231",*,"37,061",*,"36,237",*
+CP03,01000US,United States,1,91,Mean nonfamily income (dollars),"58,110","56,115",*,"55,344",*,"54,599",*,"53,776",*
+CP03,01000US,United States,1,91.3,,,,,,,,,,
+CP03,01000US,United States,1,92,Median earnings for workers (dollars),"36,519","35,574",*,"34,982",*,"33,515",*,"32,365",*
+CP03,01000US,United States,1,93,"Median earnings for male full-time, year-round workers (dollars)","52,989","52,315",*,"53,367",*,"53,299",*,"52,745",*
+CP03,01000US,United States,1,94,"Median earnings for female full-time, year-round workers (dollars)","43,215","42,767",*,"42,430",*,"43,248",,"42,568",*
+CP03,01000US,United States,1,94.3,,,,,,,,,,
+CP03,01000US,United States,1,94.5,HEALTH INSURANCE COVERAGE,,,,,,,,,
+CP03,01000US,United States,1,95,Civilian noninstitutionalized population,"323,120,678","322,249,485",*,"320,775,014",*,"318,175,867",*,"316,450,569",*
+CP03,01000US,United States,1,96,With health insurance coverage,90.8%,91.1%,*,91.3%,*,91.4%,*,90.6%,*
+CP03,01000US,United States,1,97,With private health insurance,67.4%,67.5%,,67.6%,*,67.8%,*,67.5%,
+CP03,01000US,United States,1,98,With public coverage,35.4%,35.6%,*,35.5%,,35.4%,,34.7%,*
+CP03,01000US,United States,1,99,No health insurance coverage,9.2%,8.9%,*,8.7%,*,8.6%,*,9.4%,*
+CP03,01000US,United States,1,99.3,,,,,,,,,,
+CP03,01000US,United States,1,100,Civilian noninstitutionalized population under 19 years,"77,350,432","77,817,110",*,"78,075,324",*,"78,037,772",*,"78,018,677",*
+CP03,01000US,United States,1,101,No health insurance coverage,5.7%,5.2%,*,5.0%,*,4.7%,*,5.1%,*
+CP03,01000US,United States,1,101.3,,,,,,,,,,
+CP03,01000US,United States,1,102,Civilian noninstitutionalized population 19 to 64 years,"192,987,829","193,295,029",*,"193,199,211",*,"192,232,307",*,"191,994,870",*
+CP03,01000US,United States,1,103,In labor force:,"151,909,747","151,172,514",*,"150,400,364",*,"149,056,786",*,"148,348,579",*
+CP03,01000US,United States,1,104,Employed:,"145,378,445","144,090,332",*,"142,831,346",*,"140,874,093",*,"139,403,521",*
+CP03,01000US,United States,1,105,With health insurance coverage,88.5%,88.9%,*,89.1%,*,89.3%,*,88.4%,
+CP03,01000US,United States,1,106,With private health insurance,80.6%,80.8%,*,81.0%,*,81.3%,*,80.9%,*
+CP03,01000US,United States,1,107,With public coverage,10.3%,10.7%,*,10.7%,*,10.6%,*,9.9%,*
+CP03,01000US,United States,1,108,No health insurance coverage,11.5%,11.1%,*,10.9%,*,10.7%,*,11.6%,
+CP03,01000US,United States,1,109,Unemployed:,"6,531,302","7,082,182",*,"7,569,018",*,"8,182,693",*,"8,945,058",*
+CP03,01000US,United States,1,110,With health insurance coverage,71.7%,72.7%,*,73.0%,*,72.9%,*,70.7%,*
+CP03,01000US,United States,1,111,With private health insurance,40.3%,39.9%,,40.0%,,40.6%,,39.4%,*
+CP03,01000US,United States,1,112,With public coverage,34.6%,35.9%,*,36.1%,*,35.4%,*,34.2%,
+CP03,01000US,United States,1,113,No health insurance coverage,28.3%,27.3%,*,27.0%,*,27.1%,*,29.3%,*
+CP03,01000US,United States,1,114,Not in labor force:,"41,078,082","42,122,515",*,"42,798,847",*,"43,175,521",*,"43,646,291",*
+CP03,01000US,United States,1,115,With health insurance coverage,84.9%,85.4%,*,85.7%,*,86.0%,*,84.8%,
+CP03,01000US,United States,1,116,With private health insurance,50.6%,51.0%,*,51.2%,*,51.8%,*,51.5%,*
+CP03,01000US,United States,1,117,With public coverage,41.3%,41.4%,,41.4%,,41.3%,,40.4%,*
+CP03,01000US,United States,1,118,No health insurance coverage,15.1%,14.6%,*,14.3%,*,14.0%,*,15.2%,
+CP03,01000US,United States,1,118.3,,,,,,,,,,
+CP03,01000US,United States,1,118.5,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,,,,,,,,
+CP03,01000US,United States,1,119,All families,8.6,9.3,*,9.5,*,10.0,*,10.6,*
+CP03,01000US,United States,1,120,With related children of the householder under 18 years,13.8,14.7,*,15.0,*,15.9,*,17.1,*
+CP03,01000US,United States,1,121,With related children of the householder under 5 years only,13.0,13.8,*,14.2,*,15.1,*,16.4,*
+CP03,01000US,United States,1,122,Married couple families,4.2,4.7,*,4.8,*,5.1,*,5.2,*
+CP03,01000US,United States,1,123,With related children of the householder under 18 years,5.7,6.4,*,6.6,*,7.1,*,7.7,*
+CP03,01000US,United States,1,124,With related children of the householder under 5 years only,4.5,4.9,*,5.1,*,5.3,*,5.9,*
+CP03,01000US,United States,1,125,"Families with female householder, no spouse present",24.1,25.7,*,26.2,*,27.3,*,29.0,*
+CP03,01000US,United States,1,126,With related children of the householder under 18 years,33.5,35.1,*,35.7,*,37.0,*,39.2,*
+CP03,01000US,United States,1,127,With related children of the householder under 5 years only,37.6,39.0,*,40.2,*,41.4,*,43.9,*
+CP03,01000US,United States,1,127.3,,,,,,,,,,
+CP03,01000US,United States,1,128,All people,12.3,13.1,*,13.4,*,14.0,*,14.7,*
+CP03,01000US,United States,1,129,Under 18 years,16.8,18.0,*,18.4,*,19.5,*,20.7,*
+CP03,01000US,United States,1,130,Related children of the householder under 18 years,16.4,17.7,*,18.1,*,19.1,*,20.4,*
+CP03,01000US,United States,1,131,Related children of the householder under 5 years,18.2,19.5,*,20.2,*,21.3,*,22.8,*
+CP03,01000US,United States,1,132,Related children of the householder 5 to 17 years,15.8,17.0,*,17.3,*,18.3,*,19.5,*
+CP03,01000US,United States,1,133,18 years and over,11.1,11.7,*,11.9,*,12.4,*,12.9,*
+CP03,01000US,United States,1,134,18 to 64 years,11.5,12.3,*,12.6,*,13.2,*,13.9,*
+CP03,01000US,United States,1,135,65 years and over,9.4,9.4,,9.3,*,9.2,*,9.0,*
+CP03,01000US,United States,1,136,People in families,9.5,10.3,*,10.7,*,11.3,*,12.0,*
+CP03,01000US,United States,1,137,Unrelated individuals 15 years and over,23.9,24.5,*,24.9,*,25.7,*,26.2,*

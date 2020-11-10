@@ -1,0 +1,200 @@
+TBLID,GEOID,GEONAME,PROFTBL,PROFLN,TITLE,EST_19,EST_18,SIG90_19_18,EST_17,SIG90_19_17,EST_16,SIG90_19_16,EST_15,SIG90_19_15
+CP02PR,04000US72,Puerto Rico,1,0,COMPARATIVE SOCIAL CHARACTERISTICS IN PUERTO RICO,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,0.5,COMPARATIVE SOCIAL CHARACTERISTICS IN PUERTO RICO,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,0.8,HOUSEHOLDS BY TYPE,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,1,Total households,"1,170,982","1,179,637",,"1,191,305",*,"1,208,438",*,"1,221,851",*
+CP02PR,04000US72,Puerto Rico,1,2,Married-couple family,36.8%,37.1%,,37.6%,,38.4%,*,38.6%,*
+CP02PR,04000US72,Puerto Rico,1,3,With own children of the householder under 18 years,9.2%,9.7%,,9.7%,,10.8%,*,11.7%,*
+CP02PR,04000US72,Puerto Rico,1,4,Cohabiting couple household,9.6%,9.4%,,7.9%,*,7.6%,*,8.3%,*
+CP02PR,04000US72,Puerto Rico,1,5,With own children of the householder under 18 years,4.3%,4.2%,,3.8%,*,4.0%,,4.0%,
+CP02PR,04000US72,Puerto Rico,1,6,"Male householder, no spouse/partner present",16.8%,16.7%,,16.7%,,15.5%,*,15.8%,*
+CP02PR,04000US72,Puerto Rico,1,7,With own children of the householder under 18 years,0.7%,0.8%,,0.7%,,0.8%,,0.7%,
+CP02PR,04000US72,Puerto Rico,1,8,Householder living alone,12.6%,12.1%,,12.2%,,10.9%,*,11.3%,*
+CP02PR,04000US72,Puerto Rico,1,9,65 years and over,5.2%,4.9%,,4.5%,*,4.2%,*,3.9%,*
+CP02PR,04000US72,Puerto Rico,1,10,"Female householder, no spouse/partner present",36.8%,36.8%,,37.8%,*,38.4%,*,37.4%,
+CP02PR,04000US72,Puerto Rico,1,11,With own children of the householder under 18 years,8.2%,8.0%,,8.6%,,9.5%,*,9.3%,*
+CP02PR,04000US72,Puerto Rico,1,12,Householder living alone,16.8%,16.3%,,16.5%,,16.3%,,15.8%,*
+CP02PR,04000US72,Puerto Rico,1,13,65 years and over,9.8%,9.2%,*,9.0%,*,8.9%,*,8.5%,*
+CP02PR,04000US72,Puerto Rico,1,13.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,14,Households with one or more people under 18 years,26.4%,27.1%,,27.5%,*,30.0%,*,30.8%,*
+CP02PR,04000US72,Puerto Rico,1,15,Households with one or more people 65 years and over,40.4%,39.4%,*,38.7%,*,38.1%,*,36.3%,*
+CP02PR,04000US72,Puerto Rico,1,15.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,16,Average household size,2.70,2.68,,2.77,*,2.79,*,2.81,*
+CP02PR,04000US72,Puerto Rico,1,17,Average family size,3.38,3.32,*,3.45,*,3.42,,3.46,*
+CP02PR,04000US72,Puerto Rico,1,17.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,17.5,RELATIONSHIP,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,18,Population in households,"3,158,324","3,159,695",c,"3,297,817",c,"3,371,690",c,"3,434,722",c
+CP02PR,04000US72,Puerto Rico,1,19,Householder,37.1%,37.3%,,36.1%,*,35.8%,*,35.6%,*
+CP02PR,04000US72,Puerto Rico,1,20,Spouse,13.6%,13.9%,,13.6%,,13.8%,,13.7%,
+CP02PR,04000US72,Puerto Rico,1,21,Unmarried partner,3.7%,3.5%,,2.9%,*,2.7%,*,2.9%,*
+CP02PR,04000US72,Puerto Rico,1,22,Child,34.5%,33.9%,,35.1%,,35.6%,*,36.3%,*
+CP02PR,04000US72,Puerto Rico,1,23,Other relatives,10.1%,10.2%,,11.1%,*,10.7%,,10.3%,
+CP02PR,04000US72,Puerto Rico,1,24,Other nonrelatives,1.0%,1.2%,,1.3%,*,1.3%,*,1.1%,
+CP02PR,04000US72,Puerto Rico,1,24.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,24.5,MARITAL STATUS,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,25,Males 15 years and over,"1,283,894","1,276,876",*,"1,314,422",*,"1,340,005",*,"1,349,963",*
+CP02PR,04000US72,Puerto Rico,1,26,Never married,45.3%,44.1%,*,44.4%,,43.6%,*,43.7%,*
+CP02PR,04000US72,Puerto Rico,1,27,"Now married, except separated",37.4%,38.7%,*,38.0%,,39.3%,*,38.8%,*
+CP02PR,04000US72,Puerto Rico,1,28,Separated,2.0%,2.1%,,2.3%,,2.3%,,2.5%,*
+CP02PR,04000US72,Puerto Rico,1,29,Widowed,3.7%,3.5%,,3.7%,,2.9%,*,3.0%,*
+CP02PR,04000US72,Puerto Rico,1,30,Divorced,11.6%,11.6%,,11.7%,,11.9%,,12.0%,
+CP02PR,04000US72,Puerto Rico,1,30.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,31,Females 15 years and over,"1,450,835","1,443,965",*,"1,497,797",*,"1,514,809",*,"1,530,637",*
+CP02PR,04000US72,Puerto Rico,1,32,Never married,38.2%,37.5%,,36.8%,*,36.5%,*,36.3%,*
+CP02PR,04000US72,Puerto Rico,1,33,"Now married, except separated",32.7%,33.9%,*,33.3%,,33.9%,*,34.1%,*
+CP02PR,04000US72,Puerto Rico,1,34,Separated,2.7%,2.5%,,3.0%,,2.7%,,3.1%,*
+CP02PR,04000US72,Puerto Rico,1,35,Widowed,11.6%,11.4%,,11.2%,,11.2%,,10.7%,*
+CP02PR,04000US72,Puerto Rico,1,36,Divorced,14.9%,14.8%,,15.7%,*,15.7%,*,15.8%,*
+CP02PR,04000US72,Puerto Rico,1,36.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,36.5,FERTILITY,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,37,Number of women 15 to 50 years old who had a birth in the past 12 months,"20,986","21,107",,"22,160",,"28,556",*,"28,928",*
+CP02PR,04000US72,Puerto Rico,1,38,"Unmarried women (widowed, divorced, and never married)",53.8%,50.7%,,65.9%,*,57.6%,,57.3%,
+CP02PR,04000US72,Puerto Rico,1,39,"Per 1,000 unmarried women",21,20,,26,,29,*,29,*
+CP02PR,04000US72,Puerto Rico,1,40,"Per 1,000 women 15 to 50 years old",28,28,,28,,35,*,34,*
+CP02PR,04000US72,Puerto Rico,1,41,"Per 1,000 women 15 to 19 years old",11,20,,17,,28,*,23,*
+CP02PR,04000US72,Puerto Rico,1,42,"Per 1,000 women 20 to 34 years old",47,52,,49,,58,*,65,*
+CP02PR,04000US72,Puerto Rico,1,43,"Per 1,000 women 35 to 50 years old",17,9,*,12,,17,,10,*
+CP02PR,04000US72,Puerto Rico,1,43.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,43.5,GRANDPARENTS,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,44,Number of grandparents living with own grandchildren under 18 years,"77,197","74,106",,"81,464",,"96,568",*,"97,287",*
+CP02PR,04000US72,Puerto Rico,1,45,Grandparents responsible for grandchildren,32.2%,35.9%,,34.8%,,40.5%,*,45.5%,*
+CP02PR,04000US72,Puerto Rico,1,45.9,Years responsible for grandchildren,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,46,Less than 1 year,4.1%,7.9%,*,4.0%,,6.3%,*,7.5%,*
+CP02PR,04000US72,Puerto Rico,1,47,1 or 2 years,5.0%,5.7%,,7.0%,,6.6%,,8.2%,*
+CP02PR,04000US72,Puerto Rico,1,48,3 or 4 years,6.0%,4.3%,,4.9%,,6.3%,,8.4%,
+CP02PR,04000US72,Puerto Rico,1,49,5 or more years,17.1%,18.0%,,18.9%,,21.3%,*,21.3%,*
+CP02PR,04000US72,Puerto Rico,1,49.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,50,Number of grandparents responsible for own grandchildren under 18 years,"24,848","26,608",,"28,309",,"39,093",*,"44,304",*
+CP02PR,04000US72,Puerto Rico,1,51,Who are female,62.3%,65.0%,,64.9%,,62.5%,,62.8%,
+CP02PR,04000US72,Puerto Rico,1,52,Who are married,64.3%,59.1%,,57.3%,,62.4%,,67.3%,
+CP02PR,04000US72,Puerto Rico,1,52.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,52.5,SCHOOL ENROLLMENT,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,53,Population 3 years and over enrolled in school,"747,920","742,847",,"804,711",*,"846,874",*,"892,872",*
+CP02PR,04000US72,Puerto Rico,1,54,"Nursery school, preschool",4.7%,4.8%,,5.6%,*,5.8%,*,5.9%,*
+CP02PR,04000US72,Puerto Rico,1,55,Kindergarten,3.5%,3.7%,,4.2%,,4.3%,*,4.3%,*
+CP02PR,04000US72,Puerto Rico,1,56,Elementary school (grades 1-8),37.3%,38.9%,*,38.2%,,37.8%,,38.1%,
+CP02PR,04000US72,Puerto Rico,1,57,High school (grades 9-12),20.6%,20.7%,,20.9%,,21.2%,,21.2%,
+CP02PR,04000US72,Puerto Rico,1,58,College or graduate school,33.9%,31.9%,*,31.1%,*,30.9%,*,30.5%,*
+CP02PR,04000US72,Puerto Rico,1,58.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,58.5,EDUCATIONAL ATTAINMENT,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,59,Population 25 years and over,"2,301,735","2,288,030",*,"2,343,675",*,"2,372,197",*,"2,382,526",*
+CP02PR,04000US72,Puerto Rico,1,60,Less than 9th grade,13.9%,14.7%,*,15.8%,*,15.6%,*,16.4%,*
+CP02PR,04000US72,Puerto Rico,1,61,"9th to 12th grade, no diploma",7.3%,7.8%,*,8.1%,*,8.8%,*,8.8%,*
+CP02PR,04000US72,Puerto Rico,1,62,High school graduate (includes equivalency),28.2%,28.2%,,27.9%,,27.7%,,27.2%,*
+CP02PR,04000US72,Puerto Rico,1,63,"Some college, no degree",12.2%,12.1%,,12.2%,,12.6%,,13.2%,*
+CP02PR,04000US72,Puerto Rico,1,64,Associate's degree,11.2%,10.6%,*,10.4%,*,10.0%,*,9.6%,*
+CP02PR,04000US72,Puerto Rico,1,65,Bachelor's degree,19.3%,18.8%,,18.3%,*,18.3%,*,17.8%,*
+CP02PR,04000US72,Puerto Rico,1,66,Graduate or professional degree,8.0%,7.9%,,7.4%,*,7.0%,*,7.0%,*
+CP02PR,04000US72,Puerto Rico,1,66.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,67,High school graduate or higher,78.8%,77.5%,*,76.1%,*,75.6%,*,74.7%,*
+CP02PR,04000US72,Puerto Rico,1,68,Bachelor's degree or higher,27.2%,26.7%,,25.7%,*,25.3%,*,24.8%,*
+CP02PR,04000US72,Puerto Rico,1,68.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,68.5,VETERAN STATUS,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,69,Civilian population 18 years and over,"2,618,610","2,599,633",*,"2,678,400",*,"2,713,681",*,"2,735,679",*
+CP02PR,04000US72,Puerto Rico,1,70,Civilian veterans,2.7%,2.9%,,2.7%,,2.9%,*,3.1%,*
+CP02PR,04000US72,Puerto Rico,1,70.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,70.5,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,71,Total Civilian Noninstitutionalized Population,"3,169,528","3,171,580",*,"3,309,977",*,"3,384,148",*,"3,447,794",*
+CP02PR,04000US72,Puerto Rico,1,72,With a disability,21.6%,21.3%,,21.6%,,21.3%,,21.4%,
+CP02PR,04000US72,Puerto Rico,1,72.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,73,Under 18 years,"571,835","593,120",*,"656,129",*,"695,620",*,"737,198",*
+CP02PR,04000US72,Puerto Rico,1,74,With a disability,9.1%,7.1%,*,8.2%,,8.5%,,8.2%,*
+CP02PR,04000US72,Puerto Rico,1,74.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,75,18 to 64 years,"1,923,396","1,925,133",*,"2,000,572",*,"2,049,055",*,"2,091,503",*
+CP02PR,04000US72,Puerto Rico,1,76,With a disability,16.1%,17.1%,*,17.0%,*,17.3%,*,17.7%,*
+CP02PR,04000US72,Puerto Rico,1,76.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,77,65 years and over,"674,297","653,327",*,"653,276",*,"639,473",*,"619,093",*
+CP02PR,04000US72,Puerto Rico,1,78,With a disability,48.0%,46.6%,,48.8%,,48.1%,,49.5%,*
+CP02PR,04000US72,Puerto Rico,1,78.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,78.5,RESIDENCE 1 YEAR AGO,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,79,Population 1 year and over,"3,175,835","3,173,956",,"3,313,519",*,"3,384,760",*,"3,443,445",*
+CP02PR,04000US72,Puerto Rico,1,80,Same house,93.5%,91.9%,*,93.6%,,92.9%,*,92.7%,*
+CP02PR,04000US72,Puerto Rico,1,81,Different house in Puerto Rico or the U.S.,6.3%,8.0%,*,6.3%,,7.0%,*,7.1%,*
+CP02PR,04000US72,Puerto Rico,1,82,In Puerto Rico,5.3%,7.4%,*,5.7%,,6.4%,*,6.4%,*
+CP02PR,04000US72,Puerto Rico,1,83,Same municipio,3.3%,4.7%,*,3.4%,,4.1%,*,3.7%,*
+CP02PR,04000US72,Puerto Rico,1,84,Different municipio,2.0%,2.7%,*,2.3%,,2.3%,*,2.6%,*
+CP02PR,04000US72,Puerto Rico,1,85,In the United States,1.0%,0.7%,*,0.6%,*,0.6%,*,0.7%,*
+CP02PR,04000US72,Puerto Rico,1,86,Elsewhere,0.2%,0.1%,*,0.1%,*,0.1%,*,0.2%,
+CP02PR,04000US72,Puerto Rico,1,86.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,86.5,PLACE OF BIRTH,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,87,Total population,"3,193,694","3,195,153",c,"3,337,177",c,"3,411,307",c,"3,474,182",c
+CP02PR,04000US72,Puerto Rico,1,88,Native,97.3%,97.3%,,97.3%,,97.3%,,97.2%,
+CP02PR,04000US72,Puerto Rico,1,89,Born in Puerto Rico or the United States,96.9%,97.0%,,97.0%,,97.0%,,96.9%,
+CP02PR,04000US72,Puerto Rico,1,90,In Puerto Rico,91.9%,92.0%,,92.0%,,92.2%,,91.9%,
+CP02PR,04000US72,Puerto Rico,1,91,In the United States,5.0%,5.0%,,5.0%,,4.9%,,5.0%,
+CP02PR,04000US72,Puerto Rico,1,92,"Born in U.S. Island Areas, or born abroad of American parents",0.3%,0.3%,,0.3%,,0.3%,,0.3%,
+CP02PR,04000US72,Puerto Rico,1,93,Foreign born,2.7%,2.7%,,2.7%,,2.7%,,2.8%,
+CP02PR,04000US72,Puerto Rico,1,93.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,93.5,U.S. CITIZENSHIP STATUS,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,94,Foreign-born population,"87,133","85,348",,"91,402",,"91,393",,"97,343",*
+CP02PR,04000US72,Puerto Rico,1,95,Naturalized U.S. citizen,47.9%,49.9%,,50.2%,,50.8%,,45.3%,
+CP02PR,04000US72,Puerto Rico,1,96,Not a U.S. citizen,52.1%,50.1%,,49.8%,,49.2%,,54.7%,
+CP02PR,04000US72,Puerto Rico,1,96.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,96.5,YEAR OF ENTRY,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,97,Population born outside Puerto Rico,"258,856","255,551",,"266,828",,"267,580",,"280,494",*
+CP02PR,04000US72,Puerto Rico,1,97.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,98,Native,"171,723","170,203",,"175,426",,"176,187",,"183,151",
+CP02PR,04000US72,Puerto Rico,1,99,Entered 2010 or later,19.9%,14.9%,*,15.3%,*,13.6%,*,11.0%,*
+CP02PR,04000US72,Puerto Rico,1,100,Entered before 2010,80.1%,85.1%,*,84.7%,*,86.4%,*,89.0%,*
+CP02PR,04000US72,Puerto Rico,1,100.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,101,Foreign born,"87,133","85,348",,"91,402",,"91,393",,"97,343",*
+CP02PR,04000US72,Puerto Rico,1,102,Entered 2010 or later,24.9%,22.6%,,17.1%,*,16.4%,*,16.2%,*
+CP02PR,04000US72,Puerto Rico,1,103,Entered before 2010,75.1%,77.4%,,82.9%,*,83.6%,*,83.8%,*
+CP02PR,04000US72,Puerto Rico,1,103.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,103.5,WORLD REGION OF BIRTH OF FOREIGN BORN,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,104,"Foreign-born population, excluding population born at sea","87,133","85,348",,"91,402",,"91,393",,"97,343",*
+CP02PR,04000US72,Puerto Rico,1,105,Europe,4.3%,4.0%,,5.2%,,4.7%,,4.6%,
+CP02PR,04000US72,Puerto Rico,1,106,Asia,3.2%,2.5%,,2.4%,,2.3%,,2.8%,
+CP02PR,04000US72,Puerto Rico,1,107,Africa,0.1%,0.1%,,0.0%,,0.3%,,0.2%,
+CP02PR,04000US72,Puerto Rico,1,108,Oceania,0.4%,0.4%,,0.0%,,0.3%,,0.7%,
+CP02PR,04000US72,Puerto Rico,1,109,Latin America,91.9%,92.8%,,92.3%,,91.8%,,91.4%,
+CP02PR,04000US72,Puerto Rico,1,110,Northern America,0.1%,0.1%,,0.1%,,0.6%,*,0.3%,
+CP02PR,04000US72,Puerto Rico,1,110.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,110.5,LANGUAGE SPOKEN AT HOME,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,111,Population 5 years and over,"3,078,291","3,069,357",*,"3,190,478",*,"3,251,554",*,"3,301,286",*
+CP02PR,04000US72,Puerto Rico,1,112,English only,6.4%,5.3%,*,5.7%,*,5.7%,*,5.3%,*
+CP02PR,04000US72,Puerto Rico,1,113,Language other than English,93.6%,94.7%,*,94.3%,*,94.3%,*,94.7%,*
+CP02PR,04000US72,Puerto Rico,1,114,"Speak English less than ""very well""",74.4%,76.7%,*,76.3%,*,76.3%,*,77.9%,*
+CP02PR,04000US72,Puerto Rico,1,115,Spanish,93.4%,94.5%,*,94.2%,*,94.2%,*,94.5%,*
+CP02PR,04000US72,Puerto Rico,1,116,"Speak English less than ""very well""",74.4%,76.6%,*,76.2%,*,76.2%,*,77.8%,*
+CP02PR,04000US72,Puerto Rico,1,117,Other Indo-European languages,0.1%,0.1%,,0.1%,,0.1%,,0.1%,
+CP02PR,04000US72,Puerto Rico,1,118,"Speak English less than ""very well""",0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,119,Asian and Pacific Islander languages,0.1%,0.0%,,0.1%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,120,"Speak English less than ""very well""",0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,121,Other languages,0.0%,0.0%,*,0.0%,*,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,122,"Speak English less than ""very well""",0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,122.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,122.5,ANCESTRY,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,123,Total population,"3,193,694","3,195,153",c,"3,337,177",c,"3,411,307",c,"3,474,182",c
+CP02PR,04000US72,Puerto Rico,1,124,American,1.7%,1.8%,,1.5%,,1.7%,,1.7%,
+CP02PR,04000US72,Puerto Rico,1,125,Arab,0.1%,0.0%,,0.1%,,0.1%,,0.1%,
+CP02PR,04000US72,Puerto Rico,1,126,Czech,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,127,Danish,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,128,Dutch,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,129,English,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,130,French (except Basque),0.1%,0.0%,,0.0%,,0.1%,,0.1%,
+CP02PR,04000US72,Puerto Rico,1,131,French Canadian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,132,German,0.0%,0.1%,,0.1%,*,0.1%,,0.1%,*
+CP02PR,04000US72,Puerto Rico,1,133,Greek,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,134,Hungarian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,135,Irish,0.0%,0.0%,,0.0%,*,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,136,Italian,0.1%,0.1%,,0.1%,*,0.1%,,0.1%,*
+CP02PR,04000US72,Puerto Rico,1,137,Lithuanian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,138,Norwegian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,139,Polish,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,140,Portuguese,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,141,Russian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,142,Scotch-Irish,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,143,Scottish,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,144,Slovak,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,145,Subsaharan African,0.2%,0.1%,,0.1%,*,0.1%,,0.1%,*
+CP02PR,04000US72,Puerto Rico,1,146,Swedish,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,147,Swiss,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,148,Ukrainian,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,149,Welsh,0.0%,0.0%,,0.0%,,0.0%,,0.0%,
+CP02PR,04000US72,Puerto Rico,1,150,West Indian (excluding Hispanic origin groups),0.1%,0.2%,*,0.1%,,0.1%,,0.1%,
+CP02PR,04000US72,Puerto Rico,1,150.3,,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,150.5,COMPUTERS AND INTERNET USE,,,,,,,,,
+CP02PR,04000US72,Puerto Rico,1,151,Total households,"1,170,982","1,179,637",,"1,191,305",*,"1,208,438",*,(X),
+CP02PR,04000US72,Puerto Rico,1,152,With a computer,76.3%,71.6%,*,69.2%,*,67.4%,*,(X),
+CP02PR,04000US72,Puerto Rico,1,153,With a broadband Internet subscription,68.2%,62.2%,*,60.9%,*,59.3%,*,(X),
